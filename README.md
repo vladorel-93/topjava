@@ -125,9 +125,9 @@ Optional
 
 #### Java (базовые вещи)
 - <a href="http://www.intuit.ru/studies/courses/16/16/info">Интуит. Программирование на Java</a>
+- <a href="https://github.com/JavaOPs/masterjava#Первое-занятие-многопоточность">1й урок MasterJava: Многопоточность</a>
 - <a href="http://ggenikus.github.io/blog/2014/05/04/gc/">Основы Java garbage collection</a>
 - <a href="https://habrahabr.ru/post/134102/">Размер Java объектов</a>
-- <a href="https://github.com/JavaOPs/masterjava">1й урок MasterJava: Многопоточность</a>
 - <a href="http://www.quizful.net/post/java-reflection-api">Введение в Java Reflection API</a>
 - <a href="https://habrahabr.ru/users/tarzan82/topics/">Структуры данных в картинках</a>
 - <a href="https://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.concurrent.*</a>
